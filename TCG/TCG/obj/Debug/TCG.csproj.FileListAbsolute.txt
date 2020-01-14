@@ -1,0 +1,7 @@
+C:\Users\Алек\Documents\labs2K\TestConsoleGame\TCG\TCG\bin\Debug\TCG.exe.config
+C:\Users\Алек\Documents\labs2K\TestConsoleGame\TCG\TCG\bin\Debug\TCG.exe
+C:\Users\Алек\Documents\labs2K\TestConsoleGame\TCG\TCG\bin\Debug\TCG.pdb
+C:\Users\Алек\Documents\labs2K\TestConsoleGame\TCG\TCG\obj\Debug\TCG.csprojAssemblyReference.cache
+C:\Users\Алек\Documents\labs2K\TestConsoleGame\TCG\TCG\obj\Debug\TCG.csproj.CoreCompileInputs.cache
+C:\Users\Алек\Documents\labs2K\TestConsoleGame\TCG\TCG\obj\Debug\TCG.exe
+C:\Users\Алек\Documents\labs2K\TestConsoleGame\TCG\TCG\obj\Debug\TCG.pdb
